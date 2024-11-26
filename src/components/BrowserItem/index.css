@@ -1,0 +1,29 @@
+.list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.all-items{
+    display: flex;
+    align-items: center;
+}
+.time{
+    margin-right: 40px;
+    margin-top: 10px;
+}
+.logo-url{
+    margin-right: 35px;
+    margin-left: 20px;
+}
+.title{
+    margin-right: 35px;
+}
+.domain{
+    margin-right: 35px;
+}
+.button-container{
+    margin-right: 25px;
+}
